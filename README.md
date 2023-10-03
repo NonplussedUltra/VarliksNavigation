@@ -17,7 +17,12 @@ Varlik's Navigation methods are based on observations of the planet Pluvius, whi
 
 North-South distance (z coordinate), or latitude, is found by using the Cross-Staff to sight the horizon and then Pluvius. The angle between them determines your latitude. The more accurately the two are sighted, the more accurate the resulting Z coordinate. After players collect amethyst crystals, they can be used to craft the Sextant, which makes it easier to take accurate sights.
 
-East-West distance (x coordinate) is longitude. It is found by using a Clock and Cross-Staff to sight Pluvius. When Pluvius is sighted with a Clock and Cross-Staff in hand, an image of Pluvius appears. The player must right-click again when Pluvius flickers, indicating the occultation of Pluvius by its moons. The nearer to the flicker the player clicks, the more accurate the sighting and hence the obtained X-coordinate. With the Cross-Staff, this is an inherently inaccurate operation. With the Sextant, all four moons can be seen and the minigame changes. The moons race around Pluvius at different speeds, and the player must right-click as each one is immersed in or emersed from shadow. The less the overall deviation, the more accurate the obtained X-Coordinate.
+East-West distance (x coordinate) is longitude. It is found by using a Clock and Cross-Staff to sight Pluvius. When Pluvius is sighted with a Clock and Cross-Staff in hand, an image of Pluvius appears. The player must right-click again when Pluvius flickers, indicating the occultation of Pluvius by its moons. The nearer to the flicker the player clicks, the more accurate the sighting and hence the obtained X-coordinate. With the Cross-Staff, this is an inherently inaccurate operation that can only locate the player to within +/- a certain percentage of the world circumference (as defined in config).
+With the Sextant, all four moons can be seen and the minigame changes. The moons race around Pluvius at different speeds, and the player must right-click as each one is immersed in or emersed from shadow. The less the overall deviation, the more accurate the obtained X-Coordinate.
+
+THE MINIGAMES ----------------------------
+The Latitude Minigame:
+With both the Cross-Staff and the Sextant, the trick is to measure Pluvius' distance above the horizon in a target-shooting minigame. The player engages the item, causing the view to zoom in somewhat.
 
 THE ITEMS ---------------------------
 
